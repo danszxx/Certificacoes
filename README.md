@@ -16,6 +16,12 @@ Certificados de trilhas de aprendizado e certificações em segurança da inform
 
 Certificados de cursos e formações em tecnologia e cibersegurança.
 
+| Certificado | Link |
+|---|---|
+| Certificado 1 | [📄 Ver certificado](https://coursera.org/share/70ce23a4372d8846167efaafc8cbd490) |
+| Certificado 2 | [📄 Ver certificado](https://coursera.org/share/45bb436a2bfcbefb547e003ceea1801e) |
+| Certificado 3 | [📄 Ver certificado](https://coursera.org/share/477841e66b883a5516ace465141ba6c1) |
+
 📁 **[Ver certificados da Coursera](02-Coursera/)**
 
 ---
