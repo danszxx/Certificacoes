@@ -4,7 +4,11 @@ Neste repositório, organizo os certificados dos cursos e trilhas que concluí n
 
 ## 🛡️ TryHackMe
 
-Certificados de trilhas de aprendizado e cursos práticos em segurança da informação.
+Certificados de trilhas de aprendizado e certificações em segurança da informação.
+
+| Certificação | Emissão |
+|---|---|
+| [**Pre Security (SEC0)**](https://assets.tryhackme.com/certification-certificate/6ab564d7d7f23c8e3e7f0378.pdf) | 24/09/2026 |
 
 📁 **[Ver certificados da TryHackMe](01-TryHackMe/)**
 
@@ -16,4 +20,4 @@ Certificados de cursos e formações em tecnologia e cibersegurança.
 
 ---
 
-Os certificados serão adicionados conforme as conclusões dos cursos e trilhas.
+Novos certificados serão adicionados conforme a conclusão dos cursos e trilhas.
