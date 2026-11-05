@@ -20,8 +20,8 @@ Certificados de **conclusão de trilhas** da TryHackMe. Eles registram a formaç
 
 | Trilha | Carga horária | Conclusão | Comprovante |
 |---|---|---|---|
-| **Pre Security — Learning Path** | 19h10 | 22/09/2026 | PDF a anexar |
-| **Cyber Security 101 — Learning Path** | 45h23 | 05/11/2026 | PDF a anexar |
+| **Pre Security — Learning Path** | 19h10 | 22/09/2026 | [📄 Ver certificado](02-Trilhas-de-Aprendizado/TryHackMe/Pre-Security.pdf) |
+| **Cyber Security 101 — Learning Path** | 45h23 | 05/11/2026 | [📄 Ver certificado](02-Trilhas-de-Aprendizado/TryHackMe/Cyber-Security-101.pdf) |
 
 📁 **[Ver trilhas da TryHackMe](02-Trilhas-de-Aprendizado/TryHackMe/)**
 
