@@ -21,6 +21,7 @@ Certificados de **conclusão de trilhas** da TryHackMe. Eles registram a formaç
 |---|---|---|---|
 | **Pre Security — Learning Path** | 19h10 | 22/09/2026 | [📄 Ver certificado](02-Trilhas-de-Aprendizado/TryHackMe/Pre-Security.pdf) |
 | **Cyber Security 101 — Learning Path** | 45h23 | 05/11/2026 | [📄 Ver certificado](02-Trilhas-de-Aprendizado/TryHackMe/Cyber-Security-101.pdf) |
+| **AI Security — Learning Path** | 19h15 | 06/11/2026 | [📄 Ver certificado oficial](https://tryhackme.com/certificate/THM-RMPUCFKCW5) |
 
 📁 **[Ver trilhas da TryHackMe](02-Trilhas-de-Aprendizado/TryHackMe/)**
 
