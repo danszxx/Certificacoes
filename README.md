@@ -11,6 +11,7 @@ Certificações conquistadas mediante exame de certificação.
 | Certificação | Instituição | Emissão | Credencial |
 |---|---|---|---|
 | **Pre Security (SEC0)** | TryHackMe | 24/09/2026 | [Ver certificado oficial](https://assets.tryhackme.com/certification-certificate/6ab564d7d7f23c8e3e7f0378.pdf) |
+| **Cyber Security 101 (SEC1)** | TryHackMe | 06/11/2026 | [Ver certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) |
 
 📁 **[Ver certificações profissionais](01-Certificacoes-Profissionais/)**
 
