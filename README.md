@@ -1,8 +1,6 @@
 # 📜 Certificações Profissionais e Formação em Cibersegurança
 
-Este repositório reúne minhas **certificações profissionais obtidas por exame** e meus **certificados de conclusão de cursos e trilhas de aprendizado** em cibersegurança e tecnologia.
-
-Os registros estão separados por tipo de conquista para facilitar a consulta e a verificação.
+Credenciais e formações em cibersegurança, com **verificação oficial** e separação clara entre certificações obtidas por exame, trilhas e cursos.
 
 ## 🏆 01 — Certificações Profissionais
 
@@ -10,8 +8,8 @@ Certificações conquistadas mediante exame de certificação.
 
 | Certificação | Instituição | Emissão | Credencial |
 |---|---|---|---|
+| **[Cyber Security 101 (SEC1)](01-Certificacoes-Profissionais/SEC1.md)** | TryHackMe | 06/11/2026 | [Ver certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) |
 | **Pre Security (SEC0)** | TryHackMe | 24/09/2026 | [Ver certificado oficial](https://assets.tryhackme.com/certification-certificate/6ab564d7d7f23c8e3e7f0378.pdf) |
-| **Cyber Security 101 (SEC1)** | TryHackMe | 06/11/2026 | [Ver certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) |
 
 📁 **[Ver certificações profissionais](01-Certificacoes-Profissionais/)**
 
@@ -40,7 +38,6 @@ Certificados de **conclusão de trilhas** da TryHackMe. Eles registram a formaç
 
 📁 **[Ver cursos do Google](03-Cursos-e-Formacoes/Google/)** · **[Ver todas as formações](03-Cursos-e-Formacoes/)**
 
-Outras formações serão organizadas por instituição, como **Microsoft** e **Cisco**.
 
 ---
 
