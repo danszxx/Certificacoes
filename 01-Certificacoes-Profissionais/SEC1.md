@@ -2,40 +2,25 @@
 
 **Certificação profissional obtida por exame prático**
 
-| Informação | Detalhes |
-|---|---|
-| Certificação | Cyber Security 101 (SEC1) |
-| Instituição emissora | TryHackMe |
-| Data de emissão | 06/11/2026 |
-| Resultado | **Aprovado — 660/700 pontos (94,3%)** |
-| Pontuação mínima | 455/700 |
-| Tentativas | 1 |
-| Duração registrada | 4h57min54s |
-| Validação | [📄 Certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) |
+![Resultado do exame SEC1 — aprovação com 660 pontos em 700](SEC1-Resultado.png)
 
-## 📊 Desempenho no exame
+**🏆 Aprovado na primeira tentativa — 660/700 pontos (94,3%)**
 
-| Área avaliada | Pontuação |
-|---|---:|
-| Windows Fundamentals | 90/100 |
-| Linux Fundamentals | 100/100 |
-| Network Traffic Fundamentals | 100/100 |
-| Web Pentesting Fundamentals | 80/100 |
-| Security Operations Fundamentals | 100/100 |
-| Bruteforcing and Cracking Fundamentals | 100/100 |
-| Malware Analysis Fundamentals | 90/100 |
-| **Total** | **660/700** |
+**📄 [Ver certificado oficial emitido pela TryHackMe](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf)**
 
-> **Fonte dos resultados:** tela de desempenho exibida ao final do exame. O certificado oficial comprova a certificação e a data de emissão; a pontuação detalhada consta no resultado do exame.
+## Informações da certificação
 
-## 🔎 Competências avaliadas
+- **Instituição:** TryHackMe
+- **Certificação:** Cyber Security 101 (SEC1)
+- **Emissão:** 06/11/2026
+- **Pontuação mínima:** 455/700
+- **Duração do exame:** 4h57min54s
+- **Tentativas:** 1
 
-O exame abordou fundamentos de Windows e Linux, análise de tráfego de rede, testes de segurança em aplicações web, operações de segurança, técnicas de auditoria de senhas e análise básica de malware.
+## Competências avaliadas
 
-A aprovação demonstra conhecimento aplicado nessas áreas, incluindo investigação, enumeração, interpretação de evidências e uso de ferramentas em ambientes de laboratório autorizados.
+Fundamentos de Windows e Linux, análise de tráfego de rede, testes de segurança em aplicações web, operações de segurança, auditoria de senhas e análise básica de malware.
 
-## 🔗 Verificação
-
-[Consultar certificado SEC1 emitido pela TryHackMe](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf)
+A imagem acima apresenta a pontuação detalhada nos sete módulos do exame.
 
 [← Voltar às certificações profissionais](README.md)
