@@ -6,6 +6,7 @@ Comprovantes de conclusão de trilhas práticas de aprendizado na TryHackMe.
 |---|---|---|---|
 | **Pre Security — Learning Path** | 19h10 | 22/09/2026 | [📄 Ver certificado](Pre-Security.pdf) |
 | **Cyber Security 101 — Learning Path** | 45h23 | 05/11/2026 | [📄 Ver certificado](Cyber-Security-101.pdf) |
+| **AI Security — Learning Path** | 19h15 | 06/11/2026 | [📄 Ver certificado oficial](https://tryhackme.com/certificate/THM-RMPUCFKCW5) |
 
 **Importante:** esses documentos são certificados de **conclusão de trilha**, e não devem ser confundidos com a certificação profissional **SEC0** e **SEC1**, obtidas por exame.
 
